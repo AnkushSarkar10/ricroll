@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.3.0",
+    "nuxt": "3.0.0-rc.6"
+  },
+  "dependencies": {
+    "gsap": "^3.10.4",
+    "three": "^0.142.0",
+    "three-orbitcontrols-ts": "^0.1.2"
+  }
+}
