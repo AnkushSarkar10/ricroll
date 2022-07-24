@@ -1,3 +1,3 @@
-# Portfolio template
+# we do a bit of trolling
 
-## credits - [Christopher Lis](https://www.udemy.com/course/modern-threejs-for-real-websites/)
+### most of the 3d threejs code is by  [Christopher Lis](https://www.udemy.com/course/modern-threejs-for-real-websites/)
