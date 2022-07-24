@@ -1,6 +1,6 @@
 <script setup lang='ts' type="module">
 import * as THREE from "three";
-import { OrbitControls } from 'three-orbitcontrols-ts';
+import {OrbitControls} from "three/examples/jsm/controls/OrbitControls.js";
 import gsap from "gsap";
 
 definePageMeta({
