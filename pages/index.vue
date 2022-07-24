@@ -33,8 +33,6 @@ onMounted(() => {
     );
 
     camera.position.z = 50;
-    // camera.position.z = 200;
-
 
     const renderer = new THREE.WebGLRenderer({
         canvas: canvasRef.value
